@@ -173,3 +173,9 @@
 #footer .copyright{
     letter-spacing: normal;
 }
+
+@media screen and (max-width: 550px){
+  .logo-portada{
+    width:90%;
+  }
+}
