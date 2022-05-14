@@ -161,6 +161,7 @@
 
 #footer{
     padding: 1.5em 0 1.5em 0;
+    le
 }
 
 #footer .icon{
@@ -169,4 +170,7 @@
 
 #footer ul{
     margin-bottom: 1em;
+}
+#footer .copyright{
+    letter-spacing: normal;
 }
