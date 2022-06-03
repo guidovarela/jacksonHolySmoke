@@ -86,12 +86,12 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="icons">
-							<li><a href="https://www.instagram.com/jacksonsholysmoke/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.instagram.com/jacksonsholysmoke/" class="icon brands fa-instagram" target="new"><span class="label">Instagram</span></a></li>
 						</ul>
 						<ul class="copyright">
 							<li>
                                 &copy; <span class="anio"></span></li>
-                                <li class="text-capitalize">Desarrollado por <a href="http://www.aldeadg.com.ar">AldeaDG</a></li>
+                                <li class="text-capitalize">Desarrollado por <a href="http://www.aldeadg.com.ar" target="new">AldeaDG</a></li>
 						</ul>
 					</footer>
 
